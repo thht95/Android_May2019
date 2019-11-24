@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion "18.0.2"
     defaultConfig {
-        applicationId "com.example.anhminh.appnote"
+        applicationId "com.example.anhvan.appnote"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
