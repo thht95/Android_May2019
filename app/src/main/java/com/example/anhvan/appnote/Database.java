@@ -1,4 +1,4 @@
-package com.example.anhminh.appnote;
+package com.example.anhvan.appnote;
 
 import android.content.Context;
 import android.database.Cursor;

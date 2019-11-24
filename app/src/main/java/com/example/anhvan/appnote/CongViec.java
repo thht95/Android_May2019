@@ -1,10 +1,8 @@
-package com.example.anhminh.appnote;
+package com.example.anhvan.appnote;
 
 import java.util.Date;
 
-/**
- * Created by Anh Minh on 10/31/2017.
- */
+
 
 public class CongViec {
 

@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.anhminh.appnote.MainActivity">
+    tools:context="com.example.anhvan.appnote.MainActivity">
 
     <EditText
         android:id="@+id/edt_timkiem"

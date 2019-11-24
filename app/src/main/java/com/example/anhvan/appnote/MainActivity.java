@@ -1,4 +1,4 @@
-package com.example.anhminh.appnote;
+package com.example.anhvan.appnote;
 
 import android.app.AlertDialog;
 import android.app.Dialog;

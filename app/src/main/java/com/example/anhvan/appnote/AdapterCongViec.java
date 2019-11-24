@@ -1,4 +1,4 @@
-package com.example.anhminh.appnote;
+package com.example.anhvan.appnote;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -18,9 +18,7 @@ import java.util.zip.Inflater;
 
 import static android.os.Build.VERSION_CODES.O;
 
-/**
- * Created by Anh Minh on 10/31/2017.
- */
+
 
 public class AdapterCongViec extends BaseAdapter {
 
